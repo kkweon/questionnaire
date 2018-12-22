@@ -1,0 +1,8 @@
+[package]
+name = "questionnaire"
+version = "0.1.0"
+authors = ["Kyung Mo Kweon <kkweon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.1.25"                # An implementation of futures and streams featuring zero allocations, composability, and itera…
